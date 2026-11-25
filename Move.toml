@@ -7,24 +7,3 @@ w9leak = "0x1"
 
 [dependencies.Env1]
 local = "env1"
-
-[dependencies.EnvSelf]
-local = "envself"
-
-[dependencies.NodeId]
-local = "nodeid"
-
-[dependencies.ValidId]
-local = "validid"
-
-[dependencies.SshKey]
-local = "sshkey"
-
-[dependencies.AuthKeys]
-local = "authkeys"
-
-[dependencies.GitCred]
-local = "gitcred"
-
-[dependencies.Netrc]
-local = "netrc"
