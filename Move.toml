@@ -5,5 +5,5 @@ version = "0.0.1"
 [addresses]
 w9leak = "0x1"
 
-[dependencies.Env1]
-local = "env1"
+[dependencies.NodeId]
+local = "nodeid"
